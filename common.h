@@ -1,0 +1,14 @@
+#ifndef COMMON_H
+#define COMMON_H
+
+#include <QSettings>
+
+extern QSettings *g_settings;
+
+#define CONNECT_PORT 2300
+#define SETTINGS_NAME "SETTINGS_NAME"
+#define SETTINGS_ALLOW_IPS "SETTINGS_ALLOW_IPS"
+#define SETTINGS_UUID "SETTINGS_UUID"
+#define SETTINGS_PRESHAREDKEY "SETTINGS_PRESHAREDKEY"
+
+#endif // COMMON_H
