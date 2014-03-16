@@ -8,6 +8,13 @@ This software automatically shares your screen without any
 confirmation in local area network. Please use this if you can trust
 LAN.
 
+Screenshots
+-----------
+
+![screenshot0](http://informationsea.info/apps/mmss/images/screenshot0-title.png)
+![screenshot1](http://informationsea.info/apps/mmss/images/screenshot1.png)
+![screenshot2](http://informationsea.info/apps/mmss/images/screenshot2.png)
+
 What's this?
 ------------
 
